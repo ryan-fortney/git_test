@@ -1,0 +1,1 @@
+This is my second test to ensure Git is functioning properly.
